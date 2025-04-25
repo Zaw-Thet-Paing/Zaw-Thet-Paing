@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zaw-Thet-Paing&label=Profile%20views&color=0e75b6&style=flat" alt="Zaw-Thet-Paing" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zaw-Thet-Paing" alt="Zaw-Thet-Paing" /></a> </p>
-
 - 👨‍💻 All of my projects are available at **https://github.com/Zaw-Thet-Paing**
 - 📫 How to reach me **zawthetpaing333@gmail.com**
 
