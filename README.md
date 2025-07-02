@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaw Thet paing</h1>
-<h3 align="center">A passionate Junior IoT Engineer from Myanmar.</h3>
+<h3 align="center">A passionate Backend Developer from Myanmar.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zaw-Thet-Paing&label=Profile%20views&color=0e75b6&style=flat" alt="Zaw-Thet-Paing" /> </p>
 
